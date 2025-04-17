@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -78,6 +80,16 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
+        },
+        {
+            "type": "Link",
+            "altText": "YouTube",
+            "url": "/kick.com",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         },
         {
             "label": "Log in",
